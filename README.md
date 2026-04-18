@@ -34,21 +34,6 @@ Instead of using external game frameworks, everything is built from scratch to b
 
 ---
 
-## 📂 Project Structure (Suggested)
-
-```
-ASCII-Arcade-Games/
-│
-├── Engine/              # Core game engine (rendering, input, loop)
-├── Games/               # Individual games (Snake, Tetris, etc.)
-├── Core/                # Shared utilities & helpers
-├── Data/                # SQLite DB and data handling
-├── Program.cs           # Entry point
-└── README.md
-```
-
----
-
 ## ▶️ Getting Started
 
 ### Prerequisites
