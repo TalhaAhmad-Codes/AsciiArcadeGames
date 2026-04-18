@@ -8,10 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Engine\" />
-    <Folder Include="Core\" />
     <Folder Include="Infrastructure\" />
-    <Folder Include="Games\" />
     <Folder Include="UI\" />
   </ItemGroup>
 
